@@ -5,7 +5,7 @@ class Pessoa:
         self.nome = nome
         self.idade = idade
         self.genero = genero
-        #self é uma convenção em Python que se refere à própria instância da classe.
+        #Self é uma convenção em Python que se refere à própria instância da classe.
         #Os parâmetros nome, idade e genero são passados durante a criação do objeto.
         # Eles são usados para inicializar os atributos da instância.
 
