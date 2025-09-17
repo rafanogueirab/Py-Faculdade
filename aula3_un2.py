@@ -1,6 +1,6 @@
 class Pessoa:
-    #o código __init__ é um construtor, chamado quando um objeto da classe é criado.
-    #ele inicializa os atributos da classe.
+    #O código __init__ é um construtor, chamado quando um objeto da classe é criado.
+    #Ele inicializa os atributos da classe.
     def __init__(self, nome, idade, genero):
         self.nome = nome
         self.idade = idade
