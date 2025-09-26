@@ -28,6 +28,7 @@ KV = '''
             on_press: app.on_number_press(3)
         MDRaisedButton:
             text: "+"
+            md_bg_color: 0.2, 0.7, 0.3, 1
             on_press: app.on_operator_press("+")
         MDRaisedButton:
             text: "4"
